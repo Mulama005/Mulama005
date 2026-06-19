@@ -1,77 +1,138 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:3b82f6&text=Mulama%20Bonventure&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20React%20|%20Flask%20|%20PostgreSQL&descAlignY=60&descSize=20" />
+</p>
 
-# Hi, I'm Mulama Bonventure
+<h1 align="center">Hi , I'm Mulama Bonventure</h1>
 
-<img width="2112" height="2698" alt="Mulama" src="https://github.com/user-attachments/assets/5da913b1-8259-4c22-8421-e16e9e535d97" />
+<h3 align="center">
+Full Stack Developer | React • Flask • PostgreSQL
+</h3>
 
+<p align="center">
+Building scalable web applications, e-commerce platforms, and modern digital solutions.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mulama005&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### Full Stack Developer
-
-Building scalable web applications using React, Flask, PostgreSQL, and modern web technologies.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5da913b1-8259-4c22-8421-e16e9e535d97" width="320" alt="Mulama Bonventure"/>
+</p>
 
 ---
 
 ##  About Me
 
-- Full Stack Developer
-- Building e-commerce and business solutions
-- Backend development with Flask
-- Frontend development with React
-- Database design with PostgreSQL
-- Cloud deployment and DevOps
+* Full Stack Developer
+* Building e-commerce and business solutions
+* Backend development with Flask
+* Frontend development with React
+* Database design with PostgreSQL
+* Cloud deployment and DevOps
+* Passionate about solving real-world problems through technology
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,js,python,flask,postgres,git,github,html,css,vscode" />
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mulama005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulama005&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-##  GitHub Streak
+## GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mulama005&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mulama005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulama005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-##  Featured Projects
+## GitHub Streak
 
-### EDD Tech Accessories
-Modern e-commerce platform for Tech Accessories
-<img width="947" height="476" alt="Screenshot 2026-06-19 124625" src="https://github.com/user-attachments/assets/29c2ca28-600c-4cf0-8fc8-f80b1767e021" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mulama005&theme=tokyonight&hide_border=true" />
+</p>
 
-### Eredi Mulama & Co.Advocates
-Modern Legal Consultancy website
-<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/c1a639a5-ed36-46eb-979b-b9b2c6ce4c7a" />
+---
 
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mulama005&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Featured Projects
+
+###  EDD Tech Accessories
+
+Modern e-commerce platform for tech accessories.
+
+<img src="https://github.com/user-attachments/assets/29c2ca28-600c-4cf0-8fc8-f80b1767e021" />
+
+---
+
+### Eredi Mulama & Co. Advocates
+
+Modern legal consultancy website.
+
+<img src="https://github.com/user-attachments/assets/c1a639a5-ed36-46eb-979b-b9b2c6ce4c7a" />
+
+---
 
 ### Nyeka Motors
-Modern e-commerce website for a car dealership
-<img width="956" height="472" alt="image" src="https://github.com/user-attachments/assets/7b92be1e-69be-4590-a26b-894d83a7f753" />
 
-### SparePartsWeb
-Spare Parts management system
+Modern e-commerce website for a car dealership.
 
-<img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/7758fc54-bc89-4eb1-a10f-902fe5218eb0" />
-
-
+<img src="https://github.com/user-attachments/assets/7b92be1e-69be-4590-a26b-894d83a7f753" />
 
 ---
 
-##  Connect With Me
+### SparePartsWeb
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+Spare parts inventory and management system.
+
+<img src="https://github.com/user-attachments/assets/7758fc54-bc89-4eb1-a10f-902fe5218eb0" />
+
+---
+
+## Highlights
+
+* Multiple production-ready full-stack applications
+* Business websites and e-commerce platforms
+* PostgreSQL database architecture
+* REST API development with Flask
+* Cloud deployment and DevOps workflows
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:bonimechii80@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into scalable software solutions."</i>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
