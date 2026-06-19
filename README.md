@@ -1,7 +1,8 @@
 
 # Hi, I'm Mulama Bonventure
 
-<img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/1a4f2872-b913-4143-b6f0-9072b08ade30" />
+<img width="2112" height="2698" alt="Mulama" src="https://github.com/user-attachments/assets/5da913b1-8259-4c22-8421-e16e9e535d97" />
+
 
 
 ### Full Stack Developer
