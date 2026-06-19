@@ -1,4 +1,5 @@
-<img width="901" height="1600" alt="1600" src="https://github.com/user-attachments/assets/b57902d1-5764-414f-b475-b5bf9c5731b1" /># Hi, I'm Mulama Bonventure
+<img width="2112" height="2698" alt="Mulama" src="https://github.com/user-attachments/assets/a649613f-a71f-4588-8b68-41139fc132e3" />
+# Hi, I'm Mulama Bonventure
 
 ### Full Stack Developer
 
