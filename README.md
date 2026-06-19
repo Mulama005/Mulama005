@@ -62,8 +62,9 @@ Modern Legal Consultancy website
 Modern e-commerce website for a car dealership
 <img width="956" height="472" alt="image" src="https://github.com/user-attachments/assets/7b92be1e-69be-4590-a26b-894d83a7f753" />
 
-###SparePartsWeb
-Spare Parts management system 
+### SparePartsWeb
+Spare Parts management system
+
 <img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/7758fc54-bc89-4eb1-a10f-902fe5218eb0" />
 
 
