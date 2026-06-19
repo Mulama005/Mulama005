@@ -74,6 +74,7 @@ Building scalable web applications, e-commerce platforms, and modern digital sol
 ###  EDD Tech Accessories
 
 https://eddtechaccessories.web.app/
+
 Modern e-commerce platform for tech accessories.
 
 <img src="https://github.com/user-attachments/assets/29c2ca28-600c-4cf0-8fc8-f80b1767e021" />
@@ -82,6 +83,8 @@ Modern e-commerce platform for tech accessories.
 
 ### Eredi Mulama & Co. Advocates
 
+https://eredilawadvocates.web.app/
+
 Modern legal consultancy website.
 
 <img src="https://github.com/user-attachments/assets/c1a639a5-ed36-46eb-979b-b9b2c6ce4c7a" />
@@ -89,6 +92,8 @@ Modern legal consultancy website.
 ---
 
 ### Nyeka Motors
+
+https://nyekamotors.web.app/
 
 Modern e-commerce website for a car dealership.
 
