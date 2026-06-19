@@ -1,4 +1,4 @@
-# Hi, I'm Mulama Bonventure 👋
+# Hi, I'm Mulama Bonventure 
 
 ## Software Developer
 
