@@ -1,4 +1,4 @@
-# Hi, I'm Mulama Bonventure
+<img width="901" height="1600" alt="1600" src="https://github.com/user-attachments/assets/b57902d1-5764-414f-b475-b5bf9c5731b1" /># Hi, I'm Mulama Bonventure
 
 ### Full Stack Developer
 
@@ -45,13 +45,23 @@ Building scalable web applications using React, Flask, PostgreSQL, and modern we
 ##  Featured Projects
 
 ### EDD Tech Accessories
-Modern e-commerce platform built with React and Flask.
+Modern e-commerce platform for Tech Accessories
+<img width="947" height="476" alt="Screenshot 2026-06-19 124625" src="https://github.com/user-attachments/assets/29c2ca28-600c-4cf0-8fc8-f80b1767e021" />
 
-### Portfolio Website
-Personal portfolio showcasing projects and skills.
+### Eredi Mulama & Co.Advocates
+Modern Legal Consultancy website
+<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/c1a639a5-ed36-46eb-979b-b9b2c6ce4c7a" />
 
-### API Projects
-RESTful APIs using Flask and PostgreSQL.
+
+### Nyeka Motors
+Modern e-commerce website for a car dealership
+<img width="956" height="472" alt="image" src="https://github.com/user-attachments/assets/7b92be1e-69be-4590-a26b-894d83a7f753" />
+
+###SparePartsWeb
+Spare Parts management system 
+<img width="952" height="468" alt="image" src="https://github.com/user-attachments/assets/7758fc54-bc89-4eb1-a10f-902fe5218eb0" />
+
+
 
 ---
 
