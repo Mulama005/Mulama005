@@ -73,6 +73,7 @@ Building scalable web applications, e-commerce platforms, and modern digital sol
 
 ###  EDD Tech Accessories
 
+https://eddtechaccessories.web.app/
 Modern e-commerce platform for tech accessories.
 
 <img src="https://github.com/user-attachments/assets/29c2ca28-600c-4cf0-8fc8-f80b1767e021" />
