@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:3b82f6&text=Mulama%20Bonventure&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20React%20|%20Flask%20|%20PostgreSQL&descAlignY=60&descSize=20" />
 </p>
 
-<h1 align="center">Hi , I'm Mulama Bonventure</h1>
+<h1 align="center">Hello , I'm Mulama Bonventure</h1>
 
 <h3 align="center">
 Full Stack Developer | React • Flask • PostgreSQL
@@ -121,7 +121,7 @@ Spare parts inventory and management system.
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="linkedin.com/in/boni-linux-27799a2b0">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
