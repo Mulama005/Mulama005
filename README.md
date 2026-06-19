@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mulama Bonventure 👋
 
-<!--
-**Mulama005/Mulama005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
 
-Here are some ideas to get you started:
+I build web applications, automation tools, and IT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Current Focus
+- Full Stack Development
+- React & Flask
+- Cloud Deployment
+- Database Design
+
+###  Tech Stack
+- JavaScript
+- React
+- Python
+- Flask
+- PostgreSQL
+- Git & GitHub
+
+###  GitHub Stats
+[GitHub Stats Card]
+
+###  Connect With Me
+- LinkedIn
+- Portfolio
+- Email
