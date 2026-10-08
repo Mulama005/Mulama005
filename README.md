@@ -98,15 +98,6 @@ Modern e-commerce platform for tech accessories.
 
 ---
 
-### Eredi Mulama & Co. Advocates
-
-https://eredilawadvocates.web.app/
-
-Modern legal consultancy website.
-
-<img src="https://github.com/user-attachments/assets/c1a639a5-ed36-46eb-979b-b9b2c6ce4c7a" />
-
----
 
 ### Nyeka Motors
 
